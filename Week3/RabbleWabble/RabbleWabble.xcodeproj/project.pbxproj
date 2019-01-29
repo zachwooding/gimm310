@@ -12,9 +12,9 @@
 		1DAD0D942200EAA600ABA62C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DAD0D922200EAA600ABA62C /* Main.storyboard */; };
 		1DAD0DA62200EFE800ABA62C /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DAD0DA52200EFE800ABA62C /* Question.swift */; };
 		1DAD0DA82200F06900ABA62C /* QuestionGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DAD0DA72200F06900ABA62C /* QuestionGroup.swift */; };
-		1DAD0DAB2200F1AC00ABA62C /* QuestionGroupData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DAD0DA92200F1AC00ABA62C /* QuestionGroupData.swift */; };
-		1DAD0DB02200F1DB00ABA62C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DAD0DAF2200F1DB00ABA62C /* Assets.xcassets */; };
 		1DAD0DB22200F27800ABA62C /* QuestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DAD0DB12200F27800ABA62C /* QuestionView.swift */; };
+		1DAD0DB42200FFB500ABA62C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DAD0DB32200FFB500ABA62C /* Assets.xcassets */; };
+		1DAD0DB72200FFC000ABA62C /* QuestionGroupData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DAD0DB52200FFC000ABA62C /* QuestionGroupData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,10 +25,10 @@
 		1DAD0D9A2200EAA800ABA62C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1DAD0DA52200EFE800ABA62C /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 		1DAD0DA72200F06900ABA62C /* QuestionGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionGroup.swift; sourceTree = "<group>"; };
-		1DAD0DA92200F1AC00ABA62C /* QuestionGroupData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = QuestionGroupData.swift; path = "../../../../Downloads/gimm310-master/03-model-view-controller-pattern/resources/QuestionGroupData.swift"; sourceTree = "<group>"; };
-		1DAD0DAE2200F1BF00ABA62C /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = "../../../../Downloads/gimm310-master/03-model-view-controller-pattern/resources/LaunchScreen.storyboard"; sourceTree = "<group>"; };
-		1DAD0DAF2200F1DB00ABA62C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../../Downloads/gimm310-master/03-model-view-controller-pattern/resources/Assets.xcassets"; sourceTree = "<group>"; };
 		1DAD0DB12200F27800ABA62C /* QuestionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionView.swift; sourceTree = "<group>"; };
+		1DAD0DB32200FFB500ABA62C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../../03-model-view-controller-pattern/resources/Assets.xcassets"; sourceTree = "<group>"; };
+		1DAD0DB52200FFC000ABA62C /* QuestionGroupData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = QuestionGroupData.swift; path = "../../../../03-model-view-controller-pattern/resources/QuestionGroupData.swift"; sourceTree = "<group>"; };
+		1DAD0DB92200FFC300ABA62C /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = "../../../../03-model-view-controller-pattern/resources/LaunchScreen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,7 +89,7 @@
 		1DAD0DA22200EE3600ABA62C /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				1DAD0DA92200F1AC00ABA62C /* QuestionGroupData.swift */,
+				1DAD0DB52200FFC000ABA62C /* QuestionGroupData.swift */,
 				1DAD0DA52200EFE800ABA62C /* Question.swift */,
 				1DAD0DA72200F06900ABA62C /* QuestionGroup.swift */,
 			);
@@ -99,7 +99,7 @@
 		1DAD0DA32200EE4000ABA62C /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				1DAD0DAF2200F1DB00ABA62C /* Assets.xcassets */,
+				1DAD0DB32200FFB500ABA62C /* Assets.xcassets */,
 				1DAD0D9A2200EAA800ABA62C /* Info.plist */,
 			);
 			path = Resources;
@@ -108,7 +108,7 @@
 		1DAD0DA42200EE4F00ABA62C /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				1DAD0DAE2200F1BF00ABA62C /* LaunchScreen.storyboard */,
+				1DAD0DB92200FFC300ABA62C /* LaunchScreen.storyboard */,
 				1DAD0D922200EAA600ABA62C /* Main.storyboard */,
 				1DAD0DB12200F27800ABA62C /* QuestionView.swift */,
 			);
@@ -173,7 +173,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1DAD0DB02200F1DB00ABA62C /* Assets.xcassets in Resources */,
+				1DAD0DB42200FFB500ABA62C /* Assets.xcassets in Resources */,
 				1DAD0D942200EAA600ABA62C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -188,9 +188,9 @@
 				1DAD0DA62200EFE800ABA62C /* Question.swift in Sources */,
 				1DAD0D912200EAA600ABA62C /* QuestionViewController.swift in Sources */,
 				1DAD0D8F2200EAA600ABA62C /* AppDelegate.swift in Sources */,
+				1DAD0DB72200FFC000ABA62C /* QuestionGroupData.swift in Sources */,
 				1DAD0DA82200F06900ABA62C /* QuestionGroup.swift in Sources */,
 				1DAD0DB22200F27800ABA62C /* QuestionView.swift in Sources */,
-				1DAD0DAB2200F1AC00ABA62C /* QuestionGroupData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
