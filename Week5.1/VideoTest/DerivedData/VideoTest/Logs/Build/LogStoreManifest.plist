@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>17EC6D07-B4EE-4F4C-A82D-F543F1CD7F75</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>17EC6D07-B4EE-4F4C-A82D-F543F1CD7F75.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>VideoTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>VideoTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build VideoTest</string>
+			<key>timeStartedRecording</key>
+			<real>571883151.99747598</real>
+			<key>timeStoppedRecording</key>
+			<real>571883152.13025105</real>
+			<key>title</key>
+			<string>Build VideoTest</string>
+			<key>uniqueIdentifier</key>
+			<string>17EC6D07-B4EE-4F4C-A82D-F543F1CD7F75</string>
+		</dict>
+		<key>5708292A-0D98-4107-9893-A3914806B310</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5708292A-0D98-4107-9893-A3914806B310.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>VideoTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>VideoTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build VideoTest</string>
+			<key>timeStartedRecording</key>
+			<real>571883083.01260805</real>
+			<key>timeStoppedRecording</key>
+			<real>571883091.186203</real>
+			<key>title</key>
+			<string>Build VideoTest</string>
+			<key>uniqueIdentifier</key>
+			<string>5708292A-0D98-4107-9893-A3914806B310</string>
+		</dict>
+		<key>5E0A5EA6-6AA0-4747-A65F-8666E1F93A58</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5E0A5EA6-6AA0-4747-A65F-8666E1F93A58.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>VideoTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>VideoTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build VideoTest</string>
+			<key>timeStartedRecording</key>
+			<real>571883029.19586396</real>
+			<key>timeStoppedRecording</key>
+			<real>571883029.26759899</real>
+			<key>title</key>
+			<string>Build VideoTest</string>
+			<key>uniqueIdentifier</key>
+			<string>5E0A5EA6-6AA0-4747-A65F-8666E1F93A58</string>
+		</dict>
+		<key>64BB9291-F035-4223-B97E-B02178A235D8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>64BB9291-F035-4223-B97E-B02178A235D8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>VideoTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>VideoTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build VideoTest</string>
+			<key>timeStartedRecording</key>
+			<real>571883020.94943297</real>
+			<key>timeStoppedRecording</key>
+			<real>571883021.41713405</real>
+			<key>title</key>
+			<string>Build VideoTest</string>
+			<key>uniqueIdentifier</key>
+			<string>64BB9291-F035-4223-B97E-B02178A235D8</string>
+		</dict>
+		<key>7D8CF09C-E482-4371-A1E7-0723CC6103DF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7D8CF09C-E482-4371-A1E7-0723CC6103DF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>VideoTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>VideoTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build VideoTest</string>
+			<key>timeStartedRecording</key>
+			<real>571883191.33144903</real>
+			<key>timeStoppedRecording</key>
+			<real>571883192.337515</real>
+			<key>title</key>
+			<string>Build VideoTest</string>
+			<key>uniqueIdentifier</key>
+			<string>7D8CF09C-E482-4371-A1E7-0723CC6103DF</string>
+		</dict>
+		<key>978A4285-49C0-40EF-B6C6-D34FF64C92FF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>978A4285-49C0-40EF-B6C6-D34FF64C92FF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>VideoTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>VideoTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build VideoTest</string>
+			<key>timeStartedRecording</key>
+			<real>571883237.41377294</real>
+			<key>timeStoppedRecording</key>
+			<real>571883238.66872394</real>
+			<key>title</key>
+			<string>Build VideoTest</string>
+			<key>uniqueIdentifier</key>
+			<string>978A4285-49C0-40EF-B6C6-D34FF64C92FF</string>
+		</dict>
+		<key>E88D575E-A751-40FA-9DEC-E3B4C765FE9E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E88D575E-A751-40FA-9DEC-E3B4C765FE9E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>VideoTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>VideoTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build VideoTest</string>
+			<key>timeStartedRecording</key>
+			<real>571883131.97971702</real>
+			<key>timeStoppedRecording</key>
+			<real>571883136.88329101</real>
+			<key>title</key>
+			<string>Build VideoTest</string>
+			<key>uniqueIdentifier</key>
+			<string>E88D575E-A751-40FA-9DEC-E3B4C765FE9E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

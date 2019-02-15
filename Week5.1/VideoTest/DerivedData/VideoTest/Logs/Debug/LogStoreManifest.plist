@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>13CA0FB8-D99C-4D40-8B29-2788721AABE2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>13CA0FB8-D99C-4D40-8B29-2788721AABE2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>VideoTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>VideoTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug VideoTest</string>
+			<key>timeStartedRecording</key>
+			<real>571883192.29333603</real>
+			<key>timeStoppedRecording</key>
+			<real>571883237.47208595</real>
+			<key>title</key>
+			<string>Debug VideoTest</string>
+			<key>uniqueIdentifier</key>
+			<string>13CA0FB8-D99C-4D40-8B29-2788721AABE2</string>
+		</dict>
+		<key>1B92B7A6-28C7-4159-93AC-4158B5984436</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1B92B7A6-28C7-4159-93AC-4158B5984436.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>VideoTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>VideoTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug VideoTest</string>
+			<key>timeStartedRecording</key>
+			<real>571883136.86104596</real>
+			<key>timeStoppedRecording</key>
+			<real>571883152.03919601</real>
+			<key>title</key>
+			<string>Debug VideoTest</string>
+			<key>uniqueIdentifier</key>
+			<string>1B92B7A6-28C7-4159-93AC-4158B5984436</string>
+		</dict>
+		<key>AB416AF2-4D01-4D92-A5F1-230887DAC11B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AB416AF2-4D01-4D92-A5F1-230887DAC11B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>VideoTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>VideoTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug VideoTest</string>
+			<key>timeStartedRecording</key>
+			<real>571883238.62506104</real>
+			<key>timeStoppedRecording</key>
+			<real>571883268.151456</real>
+			<key>title</key>
+			<string>Debug VideoTest</string>
+			<key>uniqueIdentifier</key>
+			<string>AB416AF2-4D01-4D92-A5F1-230887DAC11B</string>
+		</dict>
+		<key>FF6BB8FA-E011-4BFF-A7D7-632727167FE8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FF6BB8FA-E011-4BFF-A7D7-632727167FE8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>VideoTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>VideoTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug VideoTest</string>
+			<key>timeStartedRecording</key>
+			<real>571883152.08425105</real>
+			<key>timeStoppedRecording</key>
+			<real>571883191.38160896</real>
+			<key>title</key>
+			<string>Debug VideoTest</string>
+			<key>uniqueIdentifier</key>
+			<string>FF6BB8FA-E011-4BFF-A7D7-632727167FE8</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

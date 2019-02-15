@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "fd65b37123dd7202cbd191efcc987723"
+build_time: [1550190332, 50604000]
+inputs:
+  "/Users/zacharywooding/Documents/GitHub/gimm310/Week5.1/VideoTest/VideoTest/ViewController.swift": [1550190331, 0]
+  "/Users/zacharywooding/Documents/GitHub/gimm310/Week5.1/VideoTest/VideoTest/AppDelegate.swift": [1550189828, 0]
