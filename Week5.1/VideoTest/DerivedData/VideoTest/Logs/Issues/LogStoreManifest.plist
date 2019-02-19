@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>BE914601-BC9C-4502-BD10-3B9D2E60B9F0</key>
+		<key>BA755CAC-A09C-4096-9720-2829A4E341DB</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,19 +15,19 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>BE914601-BC9C-4502-BD10-3B9D2E60B9F0.xcactivitylog</string>
+			<string>BA755CAC-A09C-4096-9720-2829A4E341DB.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>S</string>
 			<key>signature</key>
 			<string>VideoTest-ebesxlroycjwilcefackqtojajfb</string>
 			<key>timeStartedRecording</key>
-			<real>571883237.56367099</real>
+			<real>572299011.16982305</real>
 			<key>timeStoppedRecording</key>
-			<real>571883238.62122798</real>
+			<real>572299013.188761</real>
 			<key>title</key>
 			<string>Build target VideoTest</string>
 			<key>uniqueIdentifier</key>
-			<string>BE914601-BC9C-4502-BD10-3B9D2E60B9F0</string>
+			<string>BA755CAC-A09C-4096-9720-2829A4E341DB</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
